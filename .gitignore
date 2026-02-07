@@ -1,0 +1,19 @@
+# Python junk
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+New/
+onnx_pose_venv/
+onnx_venv/
+pose_working_venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# Local Data
+*.csv
+*.avi
+*.jpg
